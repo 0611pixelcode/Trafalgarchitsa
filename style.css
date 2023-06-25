@@ -61,3 +61,48 @@ a{
   font-family: 'Mulish';
   color: gray;
 }
+
+.header-top{
+  display: flex;
+  align-self: center;
+  margin-top: 150px;
+  margin-left: -250px;
+}
+
+.header-top-display{
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.header-top-illustration{
+  margin-left: 50px;
+}
+
+.header-top-Virtual{
+  width: 700px;
+  font-family: 'Mulish';
+  font-size: 48px;
+}
+
+.header-top-info{
+  width: 300px;
+  font-family: 'Mulish';
+  font-size: 21px;
+  color: gray;
+}
+
+.header-top-submit__today{
+  width: 200px;
+  height: 56px;
+  background-color: #458FF6;
+  border-radius: 55px;
+  border: none;
+
+
+  color: aliceblue;
+  font-size: 21px;
+  margin-top: 20px;
+}
+
