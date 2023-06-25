@@ -23,3 +23,41 @@ a{
   margin-left: auto;
   margin-right: auto;
 }
+
+
+
+.header-logo{
+  margin-bottom: -50px;
+  margin-left: -250px;
+}
+
+
+
+.header-list{
+  display:flex;
+  align-items: center;
+  justify-content:center ;
+}
+
+.header-list-item{
+  margin-right: 29px;
+}
+
+
+.header-list-item-decoration-black{
+  width: 700px;
+  font-size: 18px;
+  line-height: 22.59px;
+  font-family: 'Mulish';
+}
+
+
+
+
+.header-list-item-decoration{
+  width: 400px;
+  font-size: 18px;
+  line-height: 22.59px;
+  font-family: 'Mulish';
+  color: gray;
+}
